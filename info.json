@@ -1,0 +1,11 @@
+{
+    "name": "beeeees_cyber_combi",
+    "version": "0.0.1",
+    "title": "Beeeees Cyber Combi",
+    "author": "Beeeees",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "cybersyn >= 1.2.16"
+    ],
+    "description": "Combinator which outputs various stats about your Cybersyn network"
+}
